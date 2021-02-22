@@ -1,0 +1,89 @@
+*
+
+body {
+    background-color: white;
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0;
+}
+
+img {
+    width: 50%;
+    margin: zero;
+}
+
+.image-1 {
+    flex-wrap: wrap;
+}
+
+.main-header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.main-header img {
+    width: 150px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+nav {
+    display:flex;
+    background-color: black;
+    width: 28%;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+
+nav a {
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    padding: 14px;
+}
+
+.headers {
+    display: flex;
+    padding-left: 100px;
+    font-size: 30px;
+    /* background-color: teal; */
+    width: 25%;
+    margin: 20px;
+}
+
+.content {
+    padding-left: 125px;
+    /* background-color: teal; */
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.content p {
+    font-size: 15px;
+    width: 50%;
+}
+
+.right-column {
+    justify-content: right;
+    text-align: left;
+    padding-left: 300px;
+}
+
+.photo {
+    height: 125px;
+    width: 100%;
+    background-image: url("https://instagram.fphx1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/142958604_218582513316043_536121030821207700_n.jpg?_nc_ht=instagram.fphx1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=LEQWhLAWsssAX_5V0LD&tp=1&oh=be2c3d4808adae5d7408c06609dc0dfe&oe=605C59B6");
+    background-size: cover;
+    background-position: center;
+}
+
+.images {
+    flex: 0 0 300px;
+}

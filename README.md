@@ -1,4 +1,6 @@
 # nateshipp
+# Nate Shipp's Portfolio
+
 This is a personal portfolio I will be updating as I work through the University of Arizona's Coding Bootcamp:
 https://github.com/nateskate256/nateshipp
 https://nateskate256.github.io/nateshipp/
@@ -7,13 +9,14 @@ https://nateskate256.github.io/nateshipp/
 
 Below lists my User Story and Requirements I needed to fulfill for my website
 
-User Story
+## User Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 Acceptance Criteria
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
+## Requirements
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them

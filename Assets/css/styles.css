@@ -37,19 +37,17 @@ body {
 
 .content .text2 {
     flex: 4;
-    flex-direction: row;
+    display: flex;
     font-size: 16px;
 }
 
-.content .text2 p{
+.content .text2{
     text-decoration: underline;
-    /* width: 100%;
-    margin-left: 150px; */
+    align-items: center;
 }
 
 .img {
     display: flex;
-    /* justify-content: space-around; */
 }
 
 .bottomimages {
@@ -79,10 +77,6 @@ nav {
     width: 28%;
     justify-content: center;
     border-radius: 25px;
-}
-
-#About-Me {
-    scroll-behavior: smooth;
 }
 
 nav a {

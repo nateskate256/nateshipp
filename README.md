@@ -5,7 +5,7 @@ This is a personal portfolio I will be updating as I work through the University
 https://github.com/nateskate256/nateshipp
 https://nateskate256.github.io/nateshipp/
 
-![Portfolio](./assets/Portfolio.png)
+<img src="https://user-images.githubusercontent.com/77896188/111019906-5d0ab480-837f-11eb-9db3-8a331d7d18ac.png">
 
 Below lists my User Story and Requirements I needed to fulfill for my website
 

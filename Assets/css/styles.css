@@ -11,7 +11,7 @@ body {
 
 .content p {
     width: 74%;
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .content .header {
@@ -36,13 +36,7 @@ body {
 
 .content .text2 {
     flex: 4;
-    display: flex;
-    font-size: 16px;
-}
-
-.content .text2{
-    text-decoration: underline;
-    align-items: center;
+    display: flex
 }
 
 .img {
@@ -87,7 +81,11 @@ nav a {
 .photo {
     height: 100px;
     width: 100%;
-    background-image: url("https://instagram.fphx1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/142958604_218582513316043_536121030821207700_n.jpg?_nc_ht=instagram.fphx1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=LEQWhLAWsssAX_5V0LD&tp=1&oh=be2c3d4808adae5d7408c06609dc0dfe&oe=605C59B6");
+    background-image: url("https://user-images.githubusercontent.com/77896188/113947318-42c9c800-97bf-11eb-80ac-081ef596f58d.png");
     background-size: cover;
     background-position: center;
+}
+
+.text2 {
+    width:50%;
 }
